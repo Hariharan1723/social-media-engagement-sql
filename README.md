@@ -204,7 +204,7 @@ HAVING total_likes = (SELECT COUNT(*) FROM photos);
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Hariharan B**
 - GitHub: (https://github.com/hariharan1723)
 - LinkedIn:(https://www.linkedin.com/in/hariharanbalamurugan)
 
