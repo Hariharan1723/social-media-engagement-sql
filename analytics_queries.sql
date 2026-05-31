@@ -1,5 +1,5 @@
 -- Analysis Code
-use igg;
+use db_silver;
 
 -- USER INSIGHTS AND REGISTRATION BEHAVIOR
 
